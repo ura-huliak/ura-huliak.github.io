@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Jura:wght@300..700&family=Kosugi+Maru&family=Lobster&family=Manrope:wght@200..800&family=Oswald:wght@200..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Press+Start+2P&family=Rubik+Bubbles&family=Rubik+Dirt&display=swap');
+
+/* 
+  font-family: "PT Serif", serif;
+  font-family: "Manrope", sans-serif;
+
+  font-family: "Press Start 2P", system-ui;
+  font-family: "Lobster", sans-serif;
+  font-family: "Kosugi Maru", sans-serif;
+ font-family: "PT Serif", serif;
+  font-family: "Manrope", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Great Vibes", cursive;
+ font-family: "Jura", sans-serif;
+  font-family: "Rubik Bubbles", system-ui;
+
+
+
+*/
+img {
+    width: 100%;
+}
+
+.logo-img {
+    width: 100px;
+}
+
+.img-1 {
+    left: 100%;
+}
+
+body {
+    background-image: url(fon.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+}
+
+.bgr-white {
+    background-color: #ffffff75;
+    padding: 15px;
+}
+.row{
+    align-items: center;
+}
+h1 {
+
+    font-family: "Rubik Dirt", system-ui;
+
+
+}
+h2{
+    text-align: center;
+ font-family: "Jura", sans-serif;
+
+}
+
+.logo-text {
+    text-align: center;
+    background-color: #ffffff75;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+footer{
+    background-color: #0e0f18;
+    color: antiquewhite;
+    padding-top: 20px;padding-bottom: 20px;
+}
