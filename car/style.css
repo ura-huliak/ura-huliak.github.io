@@ -1,0 +1,18 @@
+img{
+width: 100%;
+}
+.logo-img{
+    width: 100px;
+}
+.img-1{
+    left: 100% ;
+}
+body{
+background-image: url(fon.jpg);
+background-size: cover;
+background-position: 50% 50%;
+background-attachment: fixed;
+}
+.bgr-white{
+    background-color: #ffffff75;
+}
